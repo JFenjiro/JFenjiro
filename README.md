@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-Welcome to my page, I'm currently working on history projects.
+Welcome to my page, I'm currently working on history projects. As an ex-history teacher, I'm a medieval history passionate.
 
 <!--
 **JFenjiro/JFenjiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
