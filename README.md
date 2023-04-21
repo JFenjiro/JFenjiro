@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-Welcome to my project, I'm currently working on history projects.
+Welcome to my page, I'm currently working on history projects.
 
 <!--
 **JFenjiro/JFenjiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
